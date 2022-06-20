@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=217295&center=true&vCenter=true&multiline=true&width=900&height=130&lines=Hi+%F0%9F%91%8B%2C+I'm+Maxim+Samus;A+self-taught+iOS+Developer;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <!--
 **maximsamus/maximsamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
